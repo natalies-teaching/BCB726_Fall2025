@@ -44,7 +44,7 @@ Advance.
 * Class Attendance: 60%
 
 # Course Structure and Learning Goals
-The class will be lecture-based, with the exception of a lab activity during one class meeting. There will be two practical, implementation-based homework assignments over the 5 week period. Students will have experience implementing and applying supervised and unsupervised machine learning techniques to biomedical datasets, evaluating model accuracies, and identify key features driving prediction in a model (interpretability). 
+The class will be lecture-based, with the exception of a lab activity during one class meeting. There will be two practical, implementation-based homework assignments over the 5 week period. Students will have experience implementing and applying supervised and unsupervised machine learning techniques to biomedical datasets, evaluating model accuracies, and identify key features driving prediction in a model. 
 
 
 
