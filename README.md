@@ -8,7 +8,7 @@
 * Class Meeting Times : 11-12:15 Monday and Wednesday 
 * Class Meeting location : 3116 Mary Ellen Jones Building
 * Pre-requisites: BCB720 and programming in Python or R
-* Instructor: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) 
+* Instructors: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) 
 * Textbooks/Resources that you may find helpful:
 * Probabilistic Machine Learning by Kevin Murphy. https://probml.github.io/pml-book/book1.html 
 * Interpretable Machine Learning: A Guide for making black box models explainable. https://christophm.github.io/interpretable-ml-book/ 
