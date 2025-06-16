@@ -18,7 +18,7 @@ Machine learning techniques are indispensable in biomedicine and healthcare as t
 Lecture notes will be linked here on the day of the lecture.  
 | Class Meeting          | Topic/Notes                                                                                                                                                            | Presenter     |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Monday, October 20     | Introduction; Supervised vs unsupervised learning ; loss functions; optimization, cross validation.                                                              | Natalie       |
+| Monday, October 20     | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                              | Natalie       |
 | Wednesday, October 22  | Basic unsupervised learning; distance metrics, clustering via k\-means, hierarchical clustering and graph-based clustering. How to evaluate quality of clusters. | Natalie       |
 | Monday, October 27     | Classical supervised learning : penalized regression, SVM, random forest. ROC curves, learning with class imbalances ; bootstrapping; preventing data leakage    | Natalie       |
 | Wednesday, October 29  | Feature selection and multimodal integration                                                                                                                     | Natalie       |
