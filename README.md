@@ -26,7 +26,7 @@ Lecture notes will be linked here on the day of the lecture.
 | Wednesday, November 5  | Deep learning basics: autoencoders, MLPs, CNNs                                                                                                                   | Alex?         |
 | Monday, November 10    | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                    | Chi-Jane Chen |
 | Wednesday, November 12 | Explainability, interpretability with Shapley values and LIME                                                                                                    | Natalie       |
-| Monday, November 17    | Background to large language models (LLMs)                                                                                                                       | Alex          |
+| Monday, November 17    | Introduction to large language models (LLMs)                                                                                                                       | Alex          |
 | Monday, November 19    | LLMs in biology                                                                                                                                                  | Alex          |
 
 Of course the schedule is subject to change! 
