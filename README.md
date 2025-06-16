@@ -31,7 +31,7 @@ Lecture notes will be linked here on the day of the lecture.
 | Monday, November 17    | Background to large language models (LLMs)                                                                                                                       | Alex          |
 | Monday, November 19    | LLMs in biology                                                                                                                                                  | Alex          |
 
-Of course the schedule is subject to change! :) 
+Of course the schedule is subject to change! 
 
 # Course Requirements 
 To obtain full credit, students must attend 80% [8/10] of the lectures, complete the two assigned homework assignments and achieve a passing grade overall. If any students believe they may
