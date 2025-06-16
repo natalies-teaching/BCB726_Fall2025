@@ -3,8 +3,8 @@
   <img src="https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/bcb726.png" width="350" />
 </p>
 
-# Logistical 
-* Class Dates : Fall 2025 ; October 20-November 19 (10 meetings on Mondays and Wednesdays) 
+# Course Information (Meeting times etc) 
+* Class Dates : 5 week module during fall 2025 ; October 20-November 19 (10 meetings on Mondays and Wednesdays) 
 * Class Meeting Times : 11-12:15 Monday and Wednesday 
 * Class Meeting location : 3116 Mary Ellen Jones Building
 * Pre-requisites: BCB720 and programming in Python or R
