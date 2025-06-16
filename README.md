@@ -33,6 +33,9 @@ Lecture notes will be linked here on the day of the lecture.
 
 Of course the schedule is subject to change! 
 
+# Frequently asked questions
+Please contact Natalie Stanley (natalies@cs.unc.edu) with any questions and I will post common questions here. 
+
 # Course Requirements 
 To obtain full credit, students must attend 80% [8/10] of the lectures, complete the two assigned homework assignments and achieve a passing grade overall. If any students believe they may
 have to miss more that 20% of the lectures, they must discuss this with the lead instructor in
