@@ -1,6 +1,10 @@
 # BCB726: Machine Learning for Computational Biology. Fall 2025
 Course page for BCB726: machine learning for computational biology 
 
+<p>
+  <img src="https://github.com/natalies-teaching/comp683-2025/blob/main/comp683-20252.png?raw=True" width="350" />
+</p>
+
 # Topics and Tentative Schedule. 
 | Class Meeting          | Topic                                                                                                                                                            | Presenter     |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
