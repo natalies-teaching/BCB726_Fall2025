@@ -1,19 +1,17 @@
 # BCB726: Machine Learning for Computational Biology. Fall 2025
-Course page for BCB726: machine learning for computational biology 
-
 <p>
   <img src="https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/bcb726.png" width="350" />
 </p>
 
 # Logistical 
-Class Dates : Fall 2025 ; October 20-November 19 (10 meetings on Mondays and Wednesdays) 
-Class Meeting Times : 11-12:15 Monday and Wednesday 
-Class Meeting location : 3116 Mary Ellen Jones Building
-Pre-requisites: BCB720 and programming in Python or R
-Instructor: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) 
-Textbooks/Resources that you may find helpful:
-Probabilistic Machine Learning by Kevin Murphy. https://probml.github.io/pml-book/book1.html 
-Interpretable Machine Learning: A Guide for making black box models explainable. https://christophm.github.io/interpretable-ml-book/ 
+* Class Dates : Fall 2025 ; October 20-November 19 (10 meetings on Mondays and Wednesdays) 
+* Class Meeting Times : 11-12:15 Monday and Wednesday 
+* Class Meeting location : 3116 Mary Ellen Jones Building
+* Pre-requisites: BCB720 and programming in Python or R
+* Instructor: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) 
+* Textbooks/Resources that you may find helpful:
+* Probabilistic Machine Learning by Kevin Murphy. https://probml.github.io/pml-book/book1.html 
+* Interpretable Machine Learning: A Guide for making black box models explainable. https://christophm.github.io/interpretable-ml-book/ 
 
 # Course Description 
 Machine learning techniques are indispensable in biomedicine and healthcare as they allow us to gain mechanistic insights into biology or to create robust diagnostics to inform treatment decisions. This course will provide an overview of classical machine learning approaches and fundamental deep learning techniques that can be applied for robust, reproducible, and interpretable analysis of biological data. Topics covered include classical supervised and unsupervised learning, clustering, cross validation, deep learning fundamentals, explainable and interpretable machine learning, and avoiding common pitfalls involved with training and evaluating models. All concepts will be taught in a practical way to readily encourage implementation and application of methods to biological datasets.
