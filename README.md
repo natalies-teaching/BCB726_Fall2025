@@ -9,9 +9,7 @@
 * Class Meeting location : 3116 Mary Ellen Jones Building
 * Pre-requisites: BCB720 and programming in Python or R
 * Instructors: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) 
-Textbooks/Resources that you may find helpful:
-* Probabilistic Machine Learning by Kevin Murphy. https://probml.github.io/pml-book/book1.html 
-* Interpretable Machine Learning: A Guide for making black box models explainable. https://christophm.github.io/interpretable-ml-book/ 
+* Textbooks/Resources that you may find helpful: Probabilistic Machine Learning by Kevin Murphy. https://probml.github.io/pml-book/book1.html ; Interpretable Machine Learning: A Guide for making black box models explainable. https://christophm.github.io/interpretable-ml-book/ 
 
 # Course Description 
 Machine learning techniques are indispensable in biomedicine and healthcare as they allow us to gain mechanistic insights into biology or to create robust diagnostics to inform treatment decisions. This course will provide an overview of classical machine learning approaches and fundamental deep learning techniques that can be applied for robust, reproducible, and interpretable analysis of biological data. Topics covered include classical supervised and unsupervised learning, clustering, cross validation, deep learning fundamentals, explainable and interpretable machine learning, and avoiding common pitfalls involved with training and evaluating models. All concepts will be taught in a practical way to readily encourage implementation and application of methods to biological datasets. This 5 week module is meant to provide an overview of key machine learning topics that are most widely used in biology. 
