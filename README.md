@@ -8,28 +8,36 @@
 * Class Meeting Times : 11-12:15 Monday and Wednesday 
 * Class Meeting location : 3116 Mary Ellen Jones Building
 * Pre-requisites: BCB720 and programming in Python or R
-* Instructors: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) 
-* Textbooks/Resources that you may find helpful: Probabilistic Machine Learning by Kevin Murphy. https://probml.github.io/pml-book/book1.html ; Interpretable Machine Learning: A Guide for making black box models explainable. https://christophm.github.io/interpretable-ml-book/ 
+* Instructors: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu)
 
 # Course Description 
 Machine learning techniques are indispensable in biomedicine and healthcare as they allow us to gain mechanistic insights into biology or to create robust diagnostics to inform treatment decisions. This course will provide an overview of classical machine learning approaches and fundamental deep learning techniques that can be applied for robust, reproducible, and interpretable analysis of biological data. Topics covered include classical supervised and unsupervised learning, clustering, cross validation, deep learning fundamentals, explainable and interpretable machine learning, and avoiding common pitfalls involved with training and evaluating models. All concepts will be taught in a practical way to readily encourage implementation and application of methods to biological datasets. This 5 week module is meant to provide an overview of key machine learning topics that are most widely used in biology. 
 
 # Topics and Tentative Schedule.
 Lecture notes will be linked here on the day of the lecture.  
-| Class Meeting          | Topic/Notes                                                                                                                                                            | Presenter     |
+| Class Meeting          | Topic/Notes                                                                                                                                                      | Presenter     |
 | ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Monday, October 20     | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                              | Natalie       |
+| Monday, October 20     | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                       | Natalie       |
 | Wednesday, October 22  | Basic unsupervised learning; distance metrics, clustering via k\-means, hierarchical clustering and graph-based clustering. How to evaluate quality of clusters. | Natalie       |
 | Monday, October 27     | Classical supervised learning : penalized regression, SVM, random forest. ROC curves, learning with class imbalances ; bootstrapping; preventing data leakage    | Natalie       |
 | Wednesday, October 29  | Feature selection and multimodal integration                                                                                                                     | Natalie       |
 | Monday, November 3     | Graph neural networks and spatial signatures                                                                                                                     | Natalie       |
-| Wednesday, November 5  | Deep learning basics: autoencoders, MLPs, CNNs                                                                                                                   | Alex?         | # ask Tarek if he is available here? 
-| Monday, November 10    | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                    | Chi-Jane Chen |
-| Wednesday, November 12 | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                                  | Tarek Zikry        |
-| Monday, November 17    | Introduction to large language models (LLMs)  #training a GPT stlyle model in modal                                                                                                                     | Alex          |
-| Monday, November 19    | LLMs in biology                                                                                                                                                  | Alex          |
+| Wednesday, November 5  | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                   | Tarek Zikry   | # ask Tarek if he is available here? 
+| Monday, November 10    | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                    | Chi-Jane Chen | # Alex to take over part of this?
+| Wednesday, November 12 | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                            | Alex          | 
+| Monday, November 17    | Introduction to RNNs, transformers, and large language models (LLMs)  #training a GPT stlyle model in modal                                                      | Alex          |
+| Wednesday, November 19 | LLMs in biology                                                                                                                                                  | Alex          |
 
 Of course the schedule is subject to change! 
+
+# Books and Resources
+Textbooks and resources that Natalie & Alex have enjoyed and which you might also find useful: 
+* [Probabilistic Machine Learning by Kevin Murphy](https://probml.github.io/pml-book/book1.html)
+* [Interpretable Machine Learning: A Guide for making black box models explainable](https://christophm.github.io/interpretable-ml-book/)
+* [The Little Book of Deep Learning](https://fleuret.org/public/lbdl.pdf) 
+* [Alice’s Adventures in a differentiable wonderland](https://arxiv.org/pdf/2404.17625)
+* [Deep Learning: Foundations and Concepts](https://link.springer.com/book/10.1007/978-3-031-45468-4) 
+
 
 # Frequently asked questions
 Please contact Natalie Stanley (natalies@cs.unc.edu) with any questions and I will post common questions here. 
