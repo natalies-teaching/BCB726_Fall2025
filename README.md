@@ -17,16 +17,16 @@ Machine learning techniques are indispensable in biomedicine and healthcare as t
 Lecture notes will be linked here on the day of the lecture.  
 | Date | Day      | Topic/Notes                                                                                                                                                      | Presenter     |
 | -----|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| October 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                       | Natalie       |
-| October 22 | W  | Basic unsupervised learning; distance metrics, clustering via k\-means, hierarchical clustering and graph-based clustering. How to evaluate quality of clusters. | Natalie       |
-| October 27 | M  | Classical supervised learning : penalized regression, SVM, random forest. ROC curves, learning with class imbalances ; bootstrapping; preventing data leakage    | Natalie       |
-| October 29 | W  | Feature selection and multimodal integration                                                                                                                     | Natalie       |
-| November 3 | M  | Graph neural networks and spatial signatures                                                                                                                     | Natalie       |
-| November 5 | W  | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                   | Tarek Zikry   | # ask Tarek if he is available here? 
-| November 10 | M | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                    | Chi-Jane Chen | # Alex to take over part of this?
-| November 12 | W | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                            | Alex          | 
-| November 17 | M | Introduction to RNNs, transformers, and large language models (LLMs)  #training a GPT stlyle model in modal                                                      | Alex          |
-| November 19 | W | LLMs in biology                                                                                                                                                  | Alex          |
+| Oct 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                       | Natalie       |
+| Oct 22 | W  | Basic unsupervised learning; distance metrics, clustering via k\-means, hierarchical clustering and graph-based clustering. How to evaluate quality of clusters. | Natalie       |
+| Oct 27 | M  | Classical supervised learning : penalized regression, SVM, random forest. ROC curves, learning with class imbalances ; bootstrapping; preventing data leakage    | Natalie       |
+| Oct 29 | W  | Feature selection and multimodal integration                                                                                                                     | Natalie       |
+| Nov 3 | M  | Graph neural networks and spatial signatures                                                                                                                     | Natalie       |
+| Nov 5 | W  | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                   | Tarek Zikry   | # ask Tarek if he is available here? 
+| Nov 10 | M | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                    | Chi-Jane Chen | # Alex to take over part of this?
+| Nov 12 | W | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                            | Alex          | 
+| Nov 17 | M | Introduction to RNNs, transformers, and large language models (LLMs)  #training a GPT stlyle model in modal                                                      | Alex          |
+| Nov 19 | W | LLMs in biology                                                                                                                                                  | Alex          |
 
 Of course the schedule is subject to change! 
 
