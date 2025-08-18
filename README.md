@@ -15,18 +15,18 @@ Machine learning techniques are indispensable in biomedicine and healthcare as t
 
 # Topics and Tentative Schedule.
 Lecture notes will be linked here on the day of the lecture.  
-| Class Meeting          | Topic/Notes                                                                                                                                                      | Presenter     |
-| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| Monday, October 20     | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                       | Natalie       |
-| Wednesday, October 22  | Basic unsupervised learning; distance metrics, clustering via k\-means, hierarchical clustering and graph-based clustering. How to evaluate quality of clusters. | Natalie       |
-| Monday, October 27     | Classical supervised learning : penalized regression, SVM, random forest. ROC curves, learning with class imbalances ; bootstrapping; preventing data leakage    | Natalie       |
-| Wednesday, October 29  | Feature selection and multimodal integration                                                                                                                     | Natalie       |
-| Monday, November 3     | Graph neural networks and spatial signatures                                                                                                                     | Natalie       |
-| Wednesday, November 5  | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                   | Tarek Zikry   | # ask Tarek if he is available here? 
-| Monday, November 10    | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                    | Chi-Jane Chen | # Alex to take over part of this?
-| Wednesday, November 12 | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                            | Alex          | 
-| Monday, November 17    | Introduction to RNNs, transformers, and large language models (LLMs)  #training a GPT stlyle model in modal                                                      | Alex          |
-| Wednesday, November 19 | LLMs in biology                                                                                                                                                  | Alex          |
+| Date | Day      | Topic/Notes                                                                                                                                                      | Presenter     |
+| -----|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| October 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                       | Natalie       |
+| October 22 | W  | Basic unsupervised learning; distance metrics, clustering via k\-means, hierarchical clustering and graph-based clustering. How to evaluate quality of clusters. | Natalie       |
+| October 27 | M  | Classical supervised learning : penalized regression, SVM, random forest. ROC curves, learning with class imbalances ; bootstrapping; preventing data leakage    | Natalie       |
+| October 29 | W  | Feature selection and multimodal integration                                                                                                                     | Natalie       |
+| November 3 | M  | Graph neural networks and spatial signatures                                                                                                                     | Natalie       |
+| November 5 | W  | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                   | Tarek Zikry   | # ask Tarek if he is available here? 
+| November 10 | M | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                    | Chi-Jane Chen | # Alex to take over part of this?
+| November 12 | W | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                            | Alex          | 
+| November 17 | M | Introduction to RNNs, transformers, and large language models (LLMs)  #training a GPT stlyle model in modal                                                      | Alex          |
+| November 19 | W | LLMs in biology                                                                                                                                                  | Alex          |
 
 Of course the schedule is subject to change! 
 
