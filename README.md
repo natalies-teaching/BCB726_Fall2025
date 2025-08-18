@@ -23,10 +23,10 @@ Lecture notes will be linked here on the day of the lecture.
 | Monday, October 27     | Classical supervised learning : penalized regression, SVM, random forest. ROC curves, learning with class imbalances ; bootstrapping; preventing data leakage    | Natalie       |
 | Wednesday, October 29  | Feature selection and multimodal integration                                                                                                                     | Natalie       |
 | Monday, November 3     | Graph neural networks and spatial signatures                                                                                                                     | Natalie       |
-| Wednesday, November 5  | Deep learning basics: autoencoders, MLPs, CNNs                                                                                                                   | Alex?         |
+| Wednesday, November 5  | Deep learning basics: autoencoders, MLPs, CNNs                                                                                                                   | Alex?         | # ask Tarek if he is available here? 
 | Monday, November 10    | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                    | Chi-Jane Chen |
-| Wednesday, November 12 | Explainability, interpretability with Shapley values and LIME                                                                                                    | Tarek Zikry        |
-| Monday, November 17    | Introduction to large language models (LLMs)                                                                                                                       | Alex          |
+| Wednesday, November 12 | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                                  | Tarek Zikry        |
+| Monday, November 17    | Introduction to large language models (LLMs)  #training a GPT stlyle model in modal                                                                                                                     | Alex          |
 | Monday, November 19    | LLMs in biology                                                                                                                                                  | Alex          |
 
 Of course the schedule is subject to change! 
