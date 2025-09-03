@@ -18,8 +18,8 @@ Lecture notes will be linked here on the day of the lecture.
 | Date | Day      | Topic/Notes                                                                                                                                                      | Presenter     |
 | -----|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | Oct 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Natalie       |
-| Oct 22 | W  | Basic unsupervised learning; distance metrics, clustering via k\-means, hierarchical clustering and graph-based clustering. How to evaluate quality of clusters.     | Natalie       |
-| Oct 27 | M  | Classical supervised learning : penalized regression, SVM, random forest. ROC curves, learning with class imbalances ; bootstrapping; preventing data leakage        | Natalie       |
+| Oct 22 | W  | Optimization for learning from data ; EM algorithm     | Natalie       |
+| Oct 27 | M  | supervised learning, unsupervised learning through clustering ;  learning with class imbalances ; bootstrapping; preventing data leakage        | Natalie       |
 | Oct 29 | W  | Feature selection and multimodal integration                                                                                                                         | Natalie       |
 | Nov 3 | M  | Graph neural networks and spatial signatures                                                                                                                          | Natalie       |
 | Nov 5 | W  | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                        | Tarek Zikry   | # ask Tarek if he is available here? 
