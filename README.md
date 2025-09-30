@@ -21,8 +21,8 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Natalie       |
 | Oct 22 | W  | Statistics vs. Machine Learning; optimization for learning from data ; intro to modal     | Alex       |
 | Oct 27 | M  | supervised learning, unsupervised learning through clustering ;  learning with class imbalances ; bootstrapping; preventing data leakage        | Natalie       |
-| Oct 29 | W  | Feature selection and multimodal integration                                                                                                                         | Natalie       |
-| Nov 3 | M  | Graph neural networks and spatial signatures                                                                                                                          | Natalie       |
+| Oct 29 | W  | Feature selection and multimodal\multiomics data integration                                                                                                                         | Natalie       |
+| Nov 3 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       |
 | Nov 5 | W  | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                        | Tarek Zikry   | # ask Tarek if he is available here? 
 | Nov 10 | M | Dhuvi lectures ;  | Dhuvi |# Alex to take over part of this?
 | Nov 12 | W | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                                 | Alex          | 
