@@ -23,7 +23,7 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 29 | W  | Feature selection and multimodal integration                                                                                                                         | Natalie       |
 | Nov 3 | M  | Graph neural networks and spatial signatures                                                                                                                          | Natalie       |
 | Nov 5 | W  | Explainability, interpretability with Shapley values and LIME   #tarek lecture                                                                                        | Tarek Zikry   | # ask Tarek if he is available here? 
-| Nov 10 | M | Multiple instance learning ; Lab activity on multiple instance learning with single-cell data                                                                         | Chi-Jane Chen | # Alex to take over part of this?
+| Nov 10 | M | Dhuvi lectures ;  | Dhuvi |# Alex to take over part of this?
 | Nov 12 | W | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                                 | Alex          | 
 | Nov 17 | M | Introduction to RNNs, transformers, and large language models (LLMs)                                                                                                  | Alex          |
 | Nov 19 | W | LLMs in biology                                                                                                                                                      | Alex          |
