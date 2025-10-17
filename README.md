@@ -16,8 +16,8 @@ Machine learning techniques are indispensable in biomedicine and healthcare as t
 
 # Topics and Tentative Schedule.
 Lecture notes will be linked here on the day of the lecture.  
-| Date | Day      | Topic/Notes                                                                                                                                                      | Presenter     |
-| -----|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| Date | Day      | Topic/Notes                                                                                                                                                      | Presenter     |Notes|
+| -----|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |------|
 | Oct 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Natalie       |
 | Oct 22 | W  | Statistics vs. Machine Learning; optimization for learning from data ; intro to modal     | Alex       |
 | Oct 27 | M  | supervised learning (logistic regression as example) ;  learning with class imbalances ; preventing data leakage        | Natalie       |
