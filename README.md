@@ -18,7 +18,7 @@ Machine learning techniques are indispensable in biomedicine and healthcare as t
 Lecture notes will be linked here on the day of the lecture.  
 | Date | Day      | Topic/Notes                                                                                                                                                      | Presenter     |Notes|
 | -----|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |------|
-| Oct 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Natalie       |
+| Oct 20 | M  | Introduction; supervised vs unsupervised learning ; loss functions; optimization basics, cross validation.                                                           | Natalie       | [Lecture 1](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture1.pdf)|
 | Oct 22 | W  | Statistics vs. Machine Learning; optimization for learning from data ; intro to modal     | Alex       |
 | Oct 27 | M  | supervised learning (logistic regression as example) ;  learning with class imbalances ; preventing data leakage        | Natalie       |
 | Oct 29 | W  | Feature selection and multimodal\multiomics data integration                                                                                                                         | Natalie       |
