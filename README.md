@@ -7,7 +7,7 @@
 * Class Dates : 5 week module during fall 2025 ; October 20-November 19 (10 meetings on Mondays and Wednesdays) 
 * Class Meeting Times : 11-12:15 Monday and Wednesday 
 * Class Meeting location : 3116 Mary Ellen Jones Building
-* Dhuvi Office hours : Time and place TBD
+* Dhuvi Office hours : Tuesday 1:30-3 in MEJ3104
 * Pre-requisites: BCB720 and programming in Python or R
 * Instructors: Natalie Stanley (natalies@cs.unc.edu) + Alex Rubinsteyn (alex.rubinsteyn@unc.edu) + Dhuvi Karthikeyan as TA (dkarthikeyan1@unc.edu)
 
