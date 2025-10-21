@@ -23,10 +23,10 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 27 | M  | supervised learning (logistic regression as example) ;  learning with class imbalances ; preventing data leakage        | Natalie       |
 | Oct 29 | W  | Feature selection and multimodal\multiomics data integration                                                                                                                         | Natalie       |
 | Nov 3 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       |
-| Nov 5 | W  | Explainability, interpretability with Shapley values and LIME                                                                                           | Tarek Zikry   |  
+| Nov 5 | W  |  Introduction to RNNs, transformers, and large language models (LLMs)                                                                                          | Alex   |  
 | Nov 10 | M | Dhuvi lecture and hands-on lab activity ;  | Dhuvi |
 | Nov 12 | W | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                                 | Alex          | 
-| Nov 17 | M | Introduction to RNNs, transformers, and large language models (LLMs)                                                                                                  | Alex          |
+| Nov 17 | M |  Explainability, interpretability with Shapley values and LIME                                                                                                 | Tarek Zikry         |
 | Nov 19 | W | LLMs in biology                                                                                                                                                      | Alex          |
 
 Of course the schedule is subject to change! 
