@@ -44,7 +44,8 @@ Textbooks and resources that Natalie & Alex have enjoyed and which you might als
 Please contact Natalie Stanley (natalies@cs.unc.edu) with any questions and I will post common questions here. 
 
 * Q : Will there be a virtual or hybrid option? --> A : Unfortunately not. All lecture notes will be available online and I am happy to meet with you to discuss lecture materials but I find that hybrid class sessions are difficult to run smoothly.
-* Q : Can I audit the course? --> A: Absolutely! Everyone is welcome. You don't need to officially ask permission. 
+* Q : Can I audit the course? --> A: Absolutely! Everyone is welcome. You don't need to officially ask permission.
+* Q: Are office hours required --> A: No, they are not required
 
 # Course Requirements 
 To obtain full credit, students must attend 80% [8/10] of the lectures, complete the two assigned homework assignments and achieve a passing grade overall. If any students believe they may
