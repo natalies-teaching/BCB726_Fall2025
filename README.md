@@ -23,11 +23,11 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 27 | M  | supervised learning (logistic regression + naive bayes as examples) ; discriminative vs generative classification ;deriving a loss function from a likelihood ; learning with class imbalances ; preventing data leakage        | Natalie       | [Lecture 3](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture3.pdf)
 | Oct 29 | W  | Feature selection and multimodal\multiomics data integration                                                                                                                         | Natalie       |
 | Nov 3 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       |
-| Nov 5 | W  |  Introduction to RNNs, transformers, and large language models (LLMs)                                                                                          | Alex   |  
+| Nov 5 | W  |  Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs | Alex   |  
 | Nov 10 | M | Dhuvi lecture and hands-on lab activity ;  | Dhuvi |
-| Nov 12 | W | Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs                                 | Alex          | 
-| Nov 17 | M |  Explainability, interpretability with Shapley values and LIME                                                                                                 | Tarek Zikry         |
-| Nov 19 | W | LLMs in biology                                                                                                                                                      | Alex          |
+| Nov 12 | W | Introduction to RNNs, transformers, and large language models (LLMs)            | Alex          | 
+| Nov 17 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek Zikry  |
+| Nov 19 | W | LLMs in biology                                                                 | Alex          |
 
 Of course the schedule is subject to change! 
 
