@@ -24,7 +24,7 @@ Lecture notes will be linked here on the day of the lecture.
 | Oct 29 | W  | Naiave bayes and unsupervised multiomics data integration via subspace merging                                                                                                                       | Natalie       | [Lecture 4](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture4.pdf)
 | Nov 3 | M  | Graph neural networks and applications for analyzing spatial data                                                                                                                          | Natalie       | [Lecture 5](https://github.com/natalies-teaching/BCB726_Fall2025/blob/main/Lecture_Notes/Lecture5.pdf)
 | Nov 5 | W  |  Deep learning basics: training logistic regression with gradient descent, scaling it up into MLPs, adding spatial structure with CNNs | Alex   |  
-| Nov 10 | M | Dhuvi lecture and hands-on lab activity ;  | Dhuvi |
+| Nov 10 | M | A Hitchhiker’s Guide to ML4Bio  | Dhuvi | [Lecture 6](https://docs.google.com/presentation/d/1TLgyWMNwBzZqpdSd0vrT_UNB22sANXIzBZADa7FImgw/edit?usp=sharing)
 | Nov 12 | W | Introduction to RNNs, transformers, and large language models (LLMs)            | Alex          | 
 | Nov 17 | M |  Explainability, interpretability with Shapley values and LIME                  | Tarek Zikry  |
 | Nov 19 | W | LLMs in biology                                                                 | Alex          |
